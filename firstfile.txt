@@ -2,9 +2,7 @@ function main(){
 productlist()
 }
 
-function productlist(){
 
-}
 
 function cart(){
 
